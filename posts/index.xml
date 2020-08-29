@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning and Sharing</title>
-    <link>https://falfath-id.github.io/</link>
-    <description>Recent content on Learning and Sharing</description>
+    <title>Posts on Learning and Sharing</title>
+    <link>https://falfath-id.github.io/posts/</link>
+    <description>Recent content in Posts on Learning and Sharing</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2020. Thanks to &lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;&lt;span&gt;github-style&lt;/span&gt;&lt;/a&gt; for this theme.</copyright>
     <lastBuildDate>Sat, 29 Aug 2020 21:10:54 +0700</lastBuildDate>
     
-	<atom:link href="https://falfath-id.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://falfath-id.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://falfath-id.github.io/posts/first-post/</guid>
       <description>Hi, this is my first post in this site. I hope that this site become useful to us. I&amp;rsquo;ll share what i taught and what i know in this site.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://falfath-id.github.io/about/</link>
-      <pubDate>Tue, 22 Oct 2019 18:46:47 +0800</pubDate>
-      
-      <guid>https://falfath-id.github.io/about/</guid>
-      <description>about me</description>
     </item>
     
   </channel>
